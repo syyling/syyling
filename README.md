@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=YOUNG's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 
-[![YOUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=syyling&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+[![YOUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=syyling&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  
 <br>
 
@@ -42,4 +42,3 @@
     <br>
 </div><br>
 </div>
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
