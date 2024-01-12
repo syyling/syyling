@@ -1,13 +1,5 @@
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=YOUNG's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-[![YOUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=syyling&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/syyling/github-readme-stats)
- 
-
-
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
